@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/build-development-yellow"</a>
   <img src="https://img.shields.io/badge/coverage-13%25-green"</a>
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/planktonlaut/karen?label=follow&style=social">
  </p>
 
 <p align="center">
