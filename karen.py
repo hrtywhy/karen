@@ -607,7 +607,7 @@ def scanports(ip):
 
 def update():
     os.system(
-        "cd .. && rm -rf BlackDir-Framework-New && mkdir BlackDir-Framework-New && cd BlackDir-Framework-New && git clone https://github.com/RedVirus0/BlackDir-Framework.git && echo 'New Directory >> ' && pwd")
+        "cd .. && rm -rf karen-New && mkdir karen-New && cd karen-New && git clone https://github.com/planktonlaut/karen.git && echo 'New Directory >> ' && pwd")
 
 def hash_en(word,hash_type):
     word = word.strip()
