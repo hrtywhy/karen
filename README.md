@@ -1,4 +1,5 @@
 <p align="center">
+ <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103</a>
  <img src="https://img.shields.io/pypi/status/ansicolortags.svg"</a>
  <img src="https://img.shields.io/pypi/pyversions/ansicolortags.svg"</a>
  <img src="https://img.shields.io/badge/build-development-yellow"</a>
