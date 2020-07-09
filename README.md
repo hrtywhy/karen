@@ -1,5 +1,5 @@
 <p align="center">
-  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]
+  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/planktonlaut/karen/badges/open-source-badges/)
   <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/planktonlaut/karen">
   <img src="https://img.shields.io/badge/build-development-yellow"</a>
   <img src="https://img.shields.io/badge/coverage-13%25-green"</a>
