@@ -5,6 +5,7 @@
  <img src="https://img.shields.io/badge/coverage-13%25-green"</a>
  <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/planktonlaut/karen"</a>
  <img src="https://vsmarketplacebadge.apphb.com/rating/naereen.makefiles-support-for-vscode.svg"</a>
+ <img src="https://img.shields.io/github/issues/Naereen/StrapDown.js.svg</a>
  <img alt="GitHub stars" src="https://img.shields.io/github/stars/planktonlaut/karen?label=follow&style=social"></a>
 </p>
 
