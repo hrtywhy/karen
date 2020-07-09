@@ -2191,6 +2191,8 @@ winnuke/
 winshell/
 wmaster/
 words/
+wp-admin
+wp-login
 wp-adv/
 wp-atom/
 wpdocs/
