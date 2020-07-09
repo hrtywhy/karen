@@ -17,7 +17,7 @@
 
 ********************************************
 ## Introduction
-karen is web application vulnerability scanner build in python3
+karen is tools for web application vulnerability scanner build in python3
 
 ## Requirements
 ```
