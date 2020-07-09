@@ -3,7 +3,6 @@
   <img src="https://img.shields.io/badge/build-development-yellow"</a>
   <img src="https://img.shields.io/badge/coverage-13%25-green"</a>
   <img alt="GitHub stars" src="https://img.shields.io/github/stars/planktonlaut/karen?label=follow&style=social"></a>
-  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
  </p>
 
 <p align="center">
