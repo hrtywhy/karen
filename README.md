@@ -8,6 +8,7 @@
  <img src="https://vsmarketplacebadge.apphb.com/rating/naereen.makefiles-support-for-vscode.svg"</a>
  <img src="https://img.shields.io/github/issues/Naereen/StrapDown.js.svg"</a>
  <img src="https://img.shields.io/badge/License-CC--0-blue.svg"</a>
+ <img src="https://img.shields.io/badge/say-thanks-ff69b4.svg"</a>
  <img alt="GitHub stars" src="https://img.shields.io/github/stars/planktonlaut/karen?label=follow&style=social"></a>
 </p>
 
