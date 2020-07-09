@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="https://img.shields.io/badge/open-source-red?logo=appveyor&open=source"</a>
+  <img src="https://img.shields.io/github/pipenv/locked/python-version/planktonlaut/karen?logo=python&logoColor=yellow&style=plastic">
   <img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/planktonlaut/karen"</a>
   <img src="https://img.shields.io/badge/build-development-yellow"</a>
   <img src="https://img.shields.io/badge/coverage-13%25-green"</a>
