@@ -57,6 +57,8 @@ members/
 user/
 user.%EXT%
 cp/
+wp-admin
+wp-admin.%EXT%
 uvpanel/
 manage/
 manage.%EXT%
