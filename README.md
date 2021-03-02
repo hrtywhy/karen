@@ -3,7 +3,7 @@
  <img src="https://img.shields.io/pypi/status/ansicolortags.svg"</a>
  <img src="https://img.shields.io/badge/codename-Lucifer-red"</a>
  <img src="https://vsmarketplacebadge.apphb.com/rating/naereen.makefiles-support-for-vscode.svg"</a>
-
+ [![Codacy Badge](https://api.codacy.com/project/badge/Grade/109abdff521e4ce595fe7843709b7640)](https://app.codacy.com/gh/hrtywhy/karen?
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/44236850/87053279-f8b1b700-c22b-11ea-9672-2a4736b9780b.PNG"</a>
@@ -13,7 +13,7 @@
 
 ## Introduction
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/109abdff521e4ce595fe7843709b7640)](https://app.codacy.com/gh/hrtywhy/karen?utm_source=github.com&utm_medium=referral&utm_content=hrtywhy/karen&utm_campaign=Badge_Grade_Settings)
+utm_source=github.com&utm_medium=referral&utm_content=hrtywhy/karen&utm_campaign=Badge_Grade_Settings)
 
 karen is tools for web application vulnerability scanner build in python3
 
