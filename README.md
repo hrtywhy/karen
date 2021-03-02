@@ -12,6 +12,9 @@
 ******************************************** 
 
 ## Introduction
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/109abdff521e4ce595fe7843709b7640)](https://app.codacy.com/gh/hrtywhy/karen?utm_source=github.com&utm_medium=referral&utm_content=hrtywhy/karen&utm_campaign=Badge_Grade_Settings)
+
 karen is tools for web application vulnerability scanner build in python3
 
 ## Requirements
