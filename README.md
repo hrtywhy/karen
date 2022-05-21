@@ -22,6 +22,7 @@ python3
 ## Installation
 ```
 git clone https://github.com/planktonlaut/karen.git
+cd karen
 pip3 install -r requirements.txt
 python3 karen.py
 ```
